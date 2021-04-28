@@ -3,6 +3,7 @@
 ## Class repls
 
 - [201-class-01-review: datatypes, typeof and console logs](https://replit.com/@rkgallaway/201-class-01-review#index.js)
+- [201n22-class-02-if-else](https://replit.com/@rkgallaway/201n22-class-02-if-else#index.js)
 
 ## Announcements
 
