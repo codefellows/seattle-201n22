@@ -47,3 +47,5 @@ In the lower left-hand corner of VSCode, click on the gear icon and select "Sett
 - "editor.detectIndentation" should be set to true
 - "editor.wordWrap" should be set to "on"
 - "editor.minimap.enabled" should be set to true
+- "insert final newline" set to true to reduce linter errors
+- "auto save" set to onFocusChange if you want to autosave in a less invasive manner

@@ -1,5 +1,9 @@
 # Basics of HTML, CSS & JS
 
+## Class repls
+
+- [201-class-01-review: datatypes, typeof and console logs](https://replit.com/@rkgallaway/201-class-01-review#index.js)
+
 ## Announcements
 
 - Quizzes:
