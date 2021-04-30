@@ -1,5 +1,9 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
+## repls / codePen
+
+- [201-class-02-review, if statements, truthy / falsy](https://replit.com/@rkgallaway/201-class-02-review#index.js)
+
 ## Learning Objectives
 
 As a result of completing Lecture 3 of Code 201, students will:
