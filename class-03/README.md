@@ -3,6 +3,9 @@
 ## repls / codePen
 
 - [201-class-02-review, if statements, truthy / falsy](https://replit.com/@rkgallaway/201-class-02-review#index.js)
+- [201n22-arrays-and-loops](https://replit.com/@rkgallaway/201n22-arrays-and-loops#index.js)
+- [201n22-class-02-box-model-float-inline-block](https://codepen.io/rkgallaway/pen/xxgomKg)
+- [201n22-class-02-while-and-for-loops](https://replit.com/@rkgallaway/201n22-class-02-while-and-for-loops#index.js)
 
 ## Learning Objectives
 
