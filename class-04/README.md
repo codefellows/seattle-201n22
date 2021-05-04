@@ -26,7 +26,9 @@
 - FrontRow - isn't perfect
   - tip: consider downloading the "screen share" video - delete when lab is done
 - instructor 1:1 time
-- some questions (can we wait til the end):  scope, context, distractions
+- readings
+  - strategize!
+- (some) questions (can they wait til the end):  scope, context, distractions
 
 #### Takeaways / Outcomes
 
