@@ -27,7 +27,7 @@
   - tip: consider downloading the "screen share" video - delete when lab is done
 - instructor 1:1 time
 - readings
-  - strategize!
+  - tip: strategize!
 - (some) questions (can they wait til the end):  scope, context, distractions
 
 #### Takeaways / Outcomes
