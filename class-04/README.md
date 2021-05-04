@@ -1,5 +1,40 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
+## repls
+
+- [201-class-03-review-arrays-and-loops](https://replit.com/@rkgallaway/201-class-03-review-arrays-and-loops#index.js)
+
+## Week One Feedback Review:
+
+#### Fact: This is an Online Class
+
+#### Going Well / Likes
+
+- shout outs to instructional staff / curriculum
+- warm-ups / repls / breakout rooms - wanting more
+- useful dialog
+- remo
+- recordings - glad they exist
+
+#### Improvables 
+
+- meaningful time in online workspaces - Zoom and Remo
+  - Remo quality directly relates to your internet connection
+  - Zoom general Q & A can be hard - some may need to speak up, some may need to save a question or two for later
+- schedule: work and learning
+  -  tip: master your schedules NOW
+- FrontRow - isn't perfect
+  - consider downloading the "screen share" video
+- instructor 1:1 time
+- some questions (can we wait til the end):  scope, context, distractions
+
+#### Takeaways / Outcomes
+
+- autonomy is a thing!
+- meaningful remote interaction is a skill.  for some it edxists, for some it needs to be cultivated.  Success here will be a relevant job skill
+- identify weak points and strengthen
+- Communication
+
 ## Learning Objectives
 
 As a result of completing Lecture 4 of Code 201, students will:
