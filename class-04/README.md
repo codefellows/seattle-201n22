@@ -19,12 +19,12 @@
 #### Improvables 
 
 - meaningful time in online workspaces - Zoom and Remo
-  - Remo quality directly relates to your internet connection
+  - Remo quality directly relates to your internet connection, and other things
   - Zoom general Q & A can be hard - some may need to speak up, some may need to save a question or two for later
 - schedule: work and learning
   -  tip: master your schedules NOW
 - FrontRow - isn't perfect
-  - consider downloading the "screen share" video
+  - tip: consider downloading the "screen share" video - delete when lab is done
 - instructor 1:1 time
 - some questions (can we wait til the end):  scope, context, distractions
 
