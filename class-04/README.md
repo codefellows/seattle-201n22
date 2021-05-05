@@ -3,6 +3,7 @@
 ## repls
 
 - [201-class-03-review-arrays-and-loops](https://replit.com/@rkgallaway/201-class-03-review-arrays-and-loops#index.js)
+- [201n22-class-04-functions](https://replit.com/@rkgallaway/201n22-class-04-functions#index.js)
 
 ## Week One Feedback Review:
 
