@@ -2,6 +2,15 @@
 
 <a id="top"></a>
 
+## repl / CodePen
+
+- [201-class-04-review-functions-and-control-flow](https://replit.com/@rkgallaway/201-class-04-review-functions-and-control-flow#index.js)
+- [class-05 Warm Up](https://codefellows.github.io/code-201-guide/curriculum/class-05/warm-up/)
+- [Class-05 Warm Up Repl](https://replit.com/@rkgallaway/201n22-class-05-warmup#index.js)
+- [201n22-more-arrays](https://replit.com/@rkgallaway/201n22-more-arrays#index.js)
+- [CSS Selectors and Positioning](https://codepen.io/rkgallaway/pen/QWpbbLz)
+- [class-05-functions-and-arrays](https://replit.com/@rkgallaway/class-05-functions-and-arrays#index.js)
+
 ## Lecture
 
 ### Learning Objectives
