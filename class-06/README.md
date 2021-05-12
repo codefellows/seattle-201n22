@@ -5,6 +5,7 @@
 ## repl  
 
 - [201-class-05-review-functions-and-arrays](https://replit.com/@rkgallaway/201-class-05-review-functions-and-arrays#index.js)
+- [class-06-object-literals](https://replit.com/@rkgallaway/class-06-object-literals#index.js)
 
 ## Lecture
 
