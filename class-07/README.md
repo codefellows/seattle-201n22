@@ -2,6 +2,11 @@
 
 ## Lecture
 
+## repl
+
+- [class-06-review-object-literals-and-methods](https://replit.com/@rkgallaway/class-06-review-object-literals-and-methods#index.js)
+- [class-07-constructor-functions](https://replit.com/@rkgallaway/class-07-constructor-functions#index.js)
+
 ### Learning Objectives
 
 As a result of completing Lecture 7 of Code 201, students will:
