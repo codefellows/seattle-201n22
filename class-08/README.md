@@ -5,7 +5,7 @@
 ## Repl
 
 - [class-07-review-constructors](https://replit.com/@rkgallaway/class-07-review-constructors#index.js)
--[2-D arrays](https://replit.com/@rkgallaway/WeeSelfassuredWorkplace#index.js)
+- [2-D arrays](https://replit.com/@rkgallaway/WeeSelfassuredWorkplace#index.js)
 - [more-2d-array](https://replit.com/@rkgallaway/more-2d-array#index.js)
 
 ### Learning Objectives
