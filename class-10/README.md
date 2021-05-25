@@ -2,7 +2,7 @@
 
 ## Repl
 
-- [Class 07 Review Event Handling and HTML Form](https://replit.com/@rkgallaway/class-07-review-event-handling-and-form#script.js)
+- [Class 09 Review Event Handling and HTML Form](https://replit.com/@rkgallaway/class-09-review-event-handling-and-form#script.js)
 
 ## Learning Objectives
 
