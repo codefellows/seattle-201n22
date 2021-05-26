@@ -4,6 +4,8 @@
 
 - [Class 09 Review Event Handling and HTML Form](https://replit.com/@rkgallaway/class-09-review-event-handling-and-form#script.js)
 - [Class 10 Debugging](https://replit.com/@rkgallaway/Class-10-debugging#index.js)
+- [Class 10 Debugging Solution](https://replit.com/@rkgallaway/Class-10-debugging-solution#index.js)
+
 
 ## Learning Objectives
 
