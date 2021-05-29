@@ -4,6 +4,10 @@
 
 ## Lecture
 
+## repl, code pen, Warmup10
+
+- [Final Warm Up](https://codefellows.github.io/code-201-guide/curriculum/class-10/warm-up/)
+
 ### Learning Objectives
 
 As a result of completing Lecture 11 of Code 201, students will be able to:
