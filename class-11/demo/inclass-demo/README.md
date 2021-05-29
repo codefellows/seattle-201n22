@@ -27,5 +27,40 @@ after choosing your favorite goat 15 times, the voting session will conclude, th
 
 
 #### What Do We Need?
+- Global Variables
+  - arrays
+  - counter - start 0 clicks / max of 15 clicks?
+  - windows into the DOM - container, img one img two, view results?
+- Constructor
+  - image source
+  - name
+  - click
+  - views
+  - push allGoats into array
+- prototype methods???
+ - shouldn't need
+- Functions:
+  - render two unique images to the DOM
+    - generate random number(s) to get images from an array
+    - assign randoms to variables, push into an array maybe(ESPECIALLY FOR MORE 2 images)
+    - remember lab 3?  when we said you couldn't use a certain array method?
+    - how do you know if an array inculdes something?  maybe google "array include js mdn"
+    - validation to make sure the random numbers are not the same
+    - once we have 2 unique images to render.  increment views for BOTH objects
+  - need to rerender images - EVENT HANDLER
+    - if the images are assigned by property, all we need to do for new images,  is  reassign the properties.  
+    - increment counter
+    - event handler can call render function again, 
+    - log  what was clicked  - in other words,increment THAT objects "click" propertty
+    - hit limit - stop rendering when hit 15 clicks - remove event handler
+    - can add button then OR the button could exist all along
+  - button NEEDS seperate event handler
+    - validation on button (if it already exists) if clicks  = 15, then do the thing
+    - render list of results
+      - render name, number of views, and number of clicks
+
+
+
+
 
 ### Brainstormings and other ideas

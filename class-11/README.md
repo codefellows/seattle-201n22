@@ -7,6 +7,10 @@
 ## repl, code pen, Warmup10
 
 - [Final Warm Up](https://codefellows.github.io/code-201-guide/curriculum/class-10/warm-up/)
+- [CSS Flex Box](https://codepen.io/rkgallaway/pen/RwpjwKL)
+- [Flex Box Froggy](https://flexboxfroggy.com/)
+- [CSS Grid](https://codepen.io/rkgallaway/pen/xxqPxmq)
+- [Grid Garden](https://cssgridgarden.com/)
 
 ### Learning Objectives
 
