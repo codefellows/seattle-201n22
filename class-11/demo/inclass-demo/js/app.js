@@ -42,7 +42,7 @@ function selectRandomGoatIndex() {
 function renderRandomGoats() {
   let goatOne = selectRandomGoatIndex();
   let goatTwo = selectRandomGoatIndex();
-  // seriously consider using an array. 
+  // seriously consider using an array.
   // remember:  how do you know if an array inculdes something? maybe google
   while (goatOne === goatTwo) {
     goatTwo = selectRandomGoatIndex();
