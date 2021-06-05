@@ -114,7 +114,7 @@ function renderChart() {
 
   let ctx = document.getElementById('myChart').getContext('2d');
   let chartObject = {
-    type: 'line',
+    type: 'bar',
     data: {
       labels: namesArray,
       datasets: [{
