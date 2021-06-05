@@ -1,5 +1,8 @@
 # Inclass Demo Insructions
 
+### Chart Js
+[![](https://data.jsdelivr.com/v1/package/npm/chart.js/badge)](https://www.jsdelivr.com/package/npm/chart.js)
+
 ## Problem Domain
 
 You have been hired by a goat fan club called GoatPick to build an app that helps users determine the cutest goat picture out of a collection of photographs.  
@@ -22,44 +25,43 @@ You are also responsible for the look and feel of the app, so don’t forget a c
 
 Your app will randomly display two of these unique pictures at a time, the user should be able to click on their favorite.  Once clicked, the images will rerender another set of random pictures.  Although it is acceptable for the pictures to be shown back to back on today's iteration of this app, the two pictures rendered may not be the same.  
 
-after choosing your favorite goat 15 times, the voting session will conclude and the app will render a list showing all of the goats names, the number of times they were viewed, and the number of clicks received.
+after choosing your favorite goat 15 times, the voting session will conclude, the user can press a view results "button" and the app will render a list showing all of the goats names, the number of times they were viewed, and the number of clicks received.
 
 
 
 #### What Do We Need?
 - Global Variables
-  - global click counter
-  - allGoats array
-  - image one
-  - image two
-
+  - arrays
+  - counter - start 0 clicks / max of 15 clicks?
+  - windows into the DOM - container, img one img two, view results?
 - Constructor
-  - image(src)
+  - image source
   - name
+  - click
   - views
-  - clicks
-  - push into allGoats array
+  - push allGoats into array
+- prototype methods???
+ - shouldn't need
+- Functions:
+  - render two unique images to the DOM
+    - generate random number(s) to get images from an array
+    - assign randoms to variables, push into an array maybe(ESPECIALLY FOR MORE 2 images)
+    - remember lab 3?  when we said you couldn't use a certain array method?
+    - how do you know if an array inculdes something?  maybe google "array include js mdn"
+    - validation to make sure the random numbers are not the same
+    - once we have 2 unique images to render.  increment views for BOTH objects
+  - need to rerender images - EVENT HANDLER
+    - if the images are assigned by property, all we need to do for new images,  is  reassign the properties.  
+    - increment counter
+    - event handler can call render function again, 
+    - log  what was clicked  - in other words,increment THAT objects "click" propertty
+    - hit limit - stop rendering when hit 15 clicks - remove event handler
+    - can add button then OR the button could exist all along
+  - button NEEDS seperate event handler
+    - validation on button (if it already exists) if clicks  = 15, then do the thing
+    - render list of results
+      - render name, number of views, and number of clicks
 
-- render two images to the DOM
-  - get image element from DOM (if using IDS, or querySelector to grab the EXISTING img element)
-  - function to get reandom images form the allGoats array
-    - Math.random  get random index of the Goat Object - using that we can get the img src.  allGoat.length
-    - compare the two random indexes and confirm they are not the same.   while loop to make sure its NEVER the same
-  - function to render this to DOM
-    - we now HAVE the randoms - call getRandomFunction
-    - asign atrribute values to image one and two
-    - increment view for that object
-
-- prototype-methods?  shouldn't need them.
-- Event Handler
-  - increment global click counter
-  - increment click.  event.target.src  or  event.target.title or ....alt
-  - generate new random images
-  - stop or removeEventListener!
-  - render a list of template literal strings. example: "bunny-goat was viewed 5 times and clicked 4 times"
-
-- Event Listener
-  - Callback function - the event Handler
 
 
 
