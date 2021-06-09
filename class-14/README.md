@@ -3,6 +3,11 @@
 
 ## Lecture
 
+## Repl and CodePen
+ - [String Manipulation Fun](https://replit.com/@rkgallaway/201n22-String-Manipulation-Fun#index.js)
+ - [Fizz Buzz](https://replit.com/@rkgallaway/201n22-fizz-buzz-challenge#index.js)
+ - [CSS Animations](https://codepen.io/rkgallaway/pen/bGqjYXe)
+
 ### Learning Objectives
 
 As a result of completing Lecture 14 of Code 201, students will:
