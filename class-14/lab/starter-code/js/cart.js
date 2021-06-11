@@ -29,9 +29,9 @@ function showCart() {
   // TODO: Find the table body - LIKE ABOVE
 
   // TODO: Iterate over the items in the cart - for loop thru cart.items array
-  // TODO: Create a TR
-  // TODO: Create a TD for the delete link, quantity,  and the item
-  // TODO: Add the TR to the TBODY and each of the TD's to the TR
+  // TODO: Create a TR - create row
+  // TODO: Create a TD for the delete link, quantity,  and the item create / give content / append to row
+  // TODO: Add the TR to the TBODY and each of the TD's to the TR - append row to tbody (parent - window to DOM)
 
 }
 
